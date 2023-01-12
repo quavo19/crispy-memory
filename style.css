@@ -797,7 +797,19 @@ input:focus {
   }
 
   .row-2 {
-    width: 40%;
+    min-width: 500px;
+    width: 55%;
+  }
+
+  .work {
+    height: 100%;
+  }
+
+  .work ul {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
   }
 
   .list-content {
@@ -812,6 +824,7 @@ input:focus {
 
   .lang-list ul {
     display: flex;
+    flex-direction: row;
   }
 
   .form-section {
