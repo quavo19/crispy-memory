@@ -626,7 +626,6 @@ input:focus {
 .modal-description {
   font-size: 16px;
   line-height: 30px;
-  height: 300px;
   overflow-y: scroll;
 }
 
