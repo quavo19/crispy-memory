@@ -633,6 +633,11 @@ input:focus {
   display: none;
 }
 
+#closer {
+  font-size: 25px;
+  transform: rotate(45deg);
+}
+
 /* desktop version mode */
 
 @media (min-width: 900px) {
