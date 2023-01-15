@@ -184,7 +184,7 @@ Projects.forEach((modal, index) => {
               ${modalTitle}
               </h3>
               <span class="close">
-              <img id="closer"  src="./img/Icon.png" alt="icon-png">
+              <p id="closer">+</p>
               </span>
             </div>
         <div class="modal-card">
