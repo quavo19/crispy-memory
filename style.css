@@ -626,12 +626,16 @@ input:focus {
 .modal-description {
   font-size: 16px;
   line-height: 30px;
-  height: 300px;
   overflow-y: scroll;
 }
 
 ::-webkit-scrollbar {
   display: none;
+}
+
+#closer {
+  font-size: 25px;
+  transform: rotate(45deg);
 }
 
 /* desktop version mode */
