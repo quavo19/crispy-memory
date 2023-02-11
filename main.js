@@ -33,6 +33,106 @@ const Projects = [
     source: 'https://github.com/quavo19/WeatherApp',
   },
   {
+    name: 'ShowTime',
+    description: 'this project known as TV-Shows, allows users to browse through a collection of films, provided by a movie API. Users are able to like and comment on the movies they view.',
+    description1: 'this project known as TV-Shows, allows users to browse through a collection of films, provided by a movie API. Users are able to like and comment on the movies they view.',
+    featuredImage: 'img/tonic.png',
+    details: {
+      DName: 'TvShows',
+      dot1: ' ',
+      skill: 'Front end',
+      dot2: ' ',
+      year: '2023',
+    },
+    technologies: {
+      first: 'Html',
+      second: 'Css',
+      third: 'JavaScript',
+    },
+    liveVersionLink: 'https://quavo19.github.io/TV-Shows/dist/',
+    source: 'https://github.com/quavo19/TV-Shows',
+  },
+  {
+    name: 'BookStore',
+    description: 'A React-based web app designed for storing book information. It provides a user-friendly interface to easily add, edit and manage a book collection.',
+    description1: 'This is a simple application, created using React, that serves a specific purpose - to store books. Books are a treasure trove of knowledge and information, and for book lovers, keeping track of their collection can be a daunting task. This is where this application comes in handy. With its user-friendly interface and intuitive design, this application makes it easy to keep track of your books and organize your collection. Whether you are an avid reader, a student, or a researcher, this application is an ideal tool to help you manage and keep track of the books you own.',
+    featuredImage: 'img/bookstore.png',
+    details: {
+      DName: 'Store',
+      dot1: ' ',
+      skill: 'Frontend',
+      dot2: ' ',
+      year: '2023',
+    },
+    technologies: {
+      first: 'React',
+      second: 'Redux',
+      third: 'API',
+    },
+    liveVersionLink: 'https://bookstore-zy4w.onrender.com/',
+    source: 'https://github.com/quavo19/bookstore',
+  },
+  {
+    name: 'Math Time',
+    description: 'This is a simple application made with react that is intended to be used for mathematical calculations.',
+    description1: "This is a simple yet powerful application built using React, designed specifically for performing mathematical calculations. Mathematics is an essential part of our daily lives and is used in a variety of fields and industries, from finance and economics to engineering and physics. This application aims to make mathematical calculations easier and more accessible, regardless of the user's level of mathematical knowledge or experience.",
+    featuredImage: 'img/maths.png',
+    details: {
+      DName: 'Maths',
+      dot1: ' ',
+      skill: 'Frontend',
+      dot2: ' ',
+      year: '2023',
+    },
+    technologies: {
+      first: 'React',
+      second: 'Redux',
+      third: 'API',
+    },
+    liveVersionLink: 'https://mathstimes.onrender.com/',
+    source: 'https://github.com/quavo19/Math-Magician',
+  },
+  {
+    name: 'Map The world',
+    description: 'A powerful and intuitive web application. Powered by the Rest Country API, Matrics Map brings to life the fascinating world of population distribution in a visually appealing and easy-to-use interface',
+    description1: "A powerful and intuitive web application. Powered by the Rest Country API, Matrics Map brings to life the fascinating world of population distribution in a visually appealing and easy-to-use interface. Whether you're a researcher, student, or just curious about the world, Matrics Map has something to offer. Explore data for countries around the world, delving deeper into their regions, native names, area, capitals, and more. With Matrics Map, the journey of discovery is just a few clicks away. Get started today and broaden your horizons with the power of Matrics Map",
+    featuredImage: 'img/map.png',
+    details: {
+      DName: 'Maps',
+      dot1: ' ',
+      skill: 'Frontend',
+      dot2: ' ',
+      year: '2023',
+    },
+    technologies: {
+      first: 'React',
+      second: 'Redux',
+      third: 'API',
+    },
+    liveVersionLink: 'https://mathstimes.onrender.com/',
+    source: 'https://github.com/quavo19/Math-Magician',
+  },
+  {
+    name: 'Organizer',
+    description: 'This web app is used to organize tasks, a user can make a list of todos, mark them as complete and delete them',
+    description1: 'This web application is designed to help users organize and manage their tasks more efficiently. It provides a platform for users to create a list of tasks, also known as "to-dos," and keep track of their progress. With this application, users can take control of their tasks and stay on top of their responsibilities, making it easier to achieve their goals and meet their deadlines.',
+    featuredImage: 'img/todolist.png',
+    details: {
+      DName: 'To-dos',
+      dot1: ' ',
+      skill: 'Frontend',
+      dot2: ' ',
+      year: '2023',
+    },
+    technologies: {
+      first: 'HTML',
+      second: 'CSS',
+      third: 'ES6&Webpack',
+    },
+    liveVersionLink: 'https://quavo19.github.io/Todo-List/dist/',
+    source: 'https://github.com/quavo19/Todo-List',
+  },
+  {
     name: 'ShopIt',
     description: 'An e-commerce website that sells a unique item, users are able to add items to cart',
     description1: 'An e-commerce website that sells a unique item, users are able to add items to cart',
@@ -51,46 +151,6 @@ const Projects = [
     },
     liveVersionLink: 'https://quavo19.github.io/SHOP-IT/dist',
     source: 'https://github.com/quavo19/SHOP-IT',
-  },
-  {
-    name: 'Bark',
-    description: 'A website for dog lovers',
-    description1: 'A website for dog lovers',
-    featuredImage: 'img/tonic3.png',
-    details: {
-      DName: 'Landing Page',
-      dot1: ' ',
-      skill: 'Frontend',
-      dot2: ' ',
-      year: '2023',
-    },
-    technologies: {
-      first: 'Html',
-      second: 'Css',
-      third: 'JavaScript',
-    },
-    liveVersionLink: '',
-    source: '',
-  },
-  {
-    name: 'ShowTime',
-    description: 'this project known as TV-Shows, allows users to browse through a collection of films, provided by a movie API. Users are able to like and comment on the movies they view.',
-    description1: 'this project known as TV-Shows, allows users to browse through a collection of films, provided by a movie API. Users are able to like and comment on the movies they view.',
-    featuredImage: 'img/tonic.png',
-    details: {
-      DName: 'TvShows',
-      dot1: ' ',
-      skill: 'Front end',
-      dot2: ' ',
-      year: '2023',
-    },
-    technologies: {
-      first: 'Html',
-      second: 'Css',
-      third: 'JavaScript',
-    },
-    liveVersionLink: 'https://trast00.github.io/Capston-javascript/dist/index.html',
-    source: 'https://github.com/Trast00/Capston-javascript',
   },
 ];
 Projects.forEach((Project) => {
@@ -139,14 +199,7 @@ Projects.forEach((Project) => {
               </div>
       </div>
       <div class="card-actions">
-
-      <div class = "view">
-        <a  href=${
-  Project.liveVersionLink
-}><div class="actions">See Live<img src="img/card-live.png"/></div></a></div>
-        <div class = "view"><a href=${
-  Project.source
-}><div class="actions">See Source<img src="img/github.png"/></div></a></div>
+        
       </div>
   </div>
 
@@ -211,8 +264,8 @@ Projects.forEach((modal, index) => {
               <div class="card-actions">
 
       <div class = "view">
-        <a  href="${modalLiveLink}"><div class="actions">See Live<img src="img/card-live.png"/></div></a></div>
-        <div class = "view"><a href="${modalSourceLink}"><div class="actions">See Source<img src="img/github.png"/></div></a></div>
+        <div class="actions"><a  href="${modalLiveLink}"target="_blank">See Live</a><img src="img/card-live.png"/></div></div>
+        <div class="actions"><a  href="${modalSourceLink}"target="_blank">See Source</a><img src="img/github.png"/></div></div>
       </div>
   </div>
           </div>
