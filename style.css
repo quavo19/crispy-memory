@@ -215,6 +215,10 @@ button .actions {
   padding: 5px;
 }
 
+.actions a {
+  color: #6070ff;
+}
+
 .line span {
   width: 210px;
   height: 1.5px;
