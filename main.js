@@ -109,7 +109,7 @@ const Projects = [
       second: 'Redux',
       third: 'API',
     },
-    liveVersionLink: 'https://mathstimes.onrender.com/',
+    liveVersionLink: 'https://matrixmaps.netlify.app/',
     source: 'https://github.com/quavo19/Math-Magician',
   },
   {
