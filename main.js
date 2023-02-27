@@ -110,7 +110,7 @@ const Projects = [
       third: 'API',
     },
     liveVersionLink: 'https://matrixmaps.netlify.app/',
-    source: 'https://github.com/quavo19/Math-Magician',
+    source: 'https://github.com/quavo19/metrics-webapp',
   },
   {
     name: 'Organizer',
