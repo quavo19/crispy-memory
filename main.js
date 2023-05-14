@@ -149,8 +149,8 @@ const Projects = [
       second: 'Css',
       third: 'JavaScript',
     },
-    liveVersionLink: 'https://quavo19.github.io/SHOP-IT/dist',
-    source: 'https://github.com/quavo19/SHOP-IT',
+    liveVersionLink: 'https://deyarah.onrender.com/',
+    source: 'https://github.com/quavo19/DnC',
   },
 ];
 Projects.forEach((Project) => {
