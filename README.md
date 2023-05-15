@@ -1,6 +1,5 @@
 
 # Personal Portfolio 
-
 This is a project that displays all the projects i have made so far as a software developer. 
 
 ## Built With
