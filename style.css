@@ -298,18 +298,22 @@ button .actions {
 
 .skill {
   display: flex;
-  width: 250px;
-  justify-content: space-between;
+  flex-wrap: wrap;
   color: #181c42;
 }
 
 ul .skill {
   text-align: center;
   border-radius: 5px;
+  
+}
+
+.skill li {
+  margin: 1rem 0.4rem;
 }
 
 .skill li a {
-  padding: 4px 12px;
+  padding: 7px 14px;
   color: #6070ff;
   outline: #ebebff;
   background: #ebebff;
