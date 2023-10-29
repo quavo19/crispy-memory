@@ -160,7 +160,6 @@ Projects.forEach((Project) => {
               </div>
       </div>
       <div class="card-actions">
-        
       </div>
   </div>
 
