@@ -152,7 +152,6 @@ Projects.forEach((Project) => {
               <li><a href="">${Project.technologies.second}</a></li>
               <li><a href="">${Project.technologies.third}</a></li>
           </ul>
-
       </div> 
       <div class = "line-container"><span class = "liner"></span></div>
       <div class="col-5">
