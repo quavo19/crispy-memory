@@ -221,7 +221,6 @@ Projects.forEach((modal, index) => {
              ${modalDescription}
             </p>
               <div class="card-actions">
-
       <div class = "view">
         <div class="actions"><a  href="${modalLiveLink}"target="_blank">See Live</a><img src="img/card-live.png"/></div></div>
         <div class="actions"><a  href="${modalSourceLink}"target="_blank">See Source</a><img src="img/github.png"/></div></div>
