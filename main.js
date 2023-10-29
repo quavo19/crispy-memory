@@ -162,7 +162,6 @@ Projects.forEach((Project) => {
       <div class="card-actions">
       </div>
   </div>
-
 </header>
   `;
   Dynamic.innerHTML += content;
